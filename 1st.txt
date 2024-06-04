@@ -1,0 +1,12 @@
+adding a new repository to GitHub
+*] Git add
+creating repo consist of three steps
+1] Git add
+2] Git commit
+3] Git push
+commands
+- git init
+- git commit -m"---"
+
+
+- for git add command it is mandatory to add the file name but to add all files just put [.]
